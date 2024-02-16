@@ -4,3 +4,8 @@ body {
     margin: auto;
     width: 50%;
 }
+
+header {
+    line-height: 1;
+    margin-bottom: 50px;
+}

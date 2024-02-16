@@ -7,5 +7,10 @@ body {
 
 header {
     line-height: 1;
-    margin-bottom: 50px;
+    margin: 50px 0;
 }
+
+ div p {
+    line-height: 2;
+    margin-bottom: 30px;
+ }

@@ -13,14 +13,4 @@ found 0 vulnerabilities
 
 // Run with:
 
-$ npm exec html-validate index.html
-
-C:\kodilla\learning-git-2\index.html
-  13:6  error  <heade> is not a valid element name                              element-name
-  16:6  error  Mismatched close-tag, expected '</heade>' but found '</header>'  close-order
-
-✖ 2 problems (2 errors, 0 warnings)
-
-More information:
-  https://html-validate.org/rules/element-name.html
-  https://html-validate.org/rules/close-order.html
+$ npm exec html-validate *.html
